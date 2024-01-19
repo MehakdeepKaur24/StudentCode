@@ -19,6 +19,8 @@ public class StudentList {
        Student s1 = new Student();
        s1.setName("Liz Dancy");
        System.out.println("there are Many students");
+        
+       System.out.println("I am making changes on GitHub");
        studentList[0]=s1;
        //fill in 4 student names before running
        for(Student s: studentList)
