@@ -21,6 +21,7 @@ public class StudentList {
        System.out.println("there are Many students");
         //Checking if i have learnt fetch and merge or not 
        System.out.println("I am making changes on GitHub");
+              System.out.println("Lets try reverting the changes");
        studentList[0]=s1;
        //fill in 4 student names before running
        for(Student s: studentList)
